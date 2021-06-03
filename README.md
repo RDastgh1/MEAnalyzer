@@ -1,3 +1,5 @@
+[![View MEAnalyzer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/68260-meanalyzer)
+
 # MEAnalyzer
 Analyze spike train data exported from multi-electrode array recordings with advanced visualizations.
 This stand-alone tool gives you the ability to:
